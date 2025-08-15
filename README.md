@@ -13,6 +13,52 @@ I am a Computer Engineering student, Full-Stack Developer, and Machine Learning 
 
 
 
+<!-- Github Stats Table -->
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/KishanSingh2003">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=KishanSingh2003&count_private=true&show_icons=true&theme=tokyonight&bg_color=20,0D1117,1a1a40,0D1117&title_color=70A5FD&text_color=FFFFFF&rank_icon=github&hide=prs,issues&border_radius=10&show=reviews,prs_merged,prs_merged_percentage" alt="Kishan's GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/KishanSingh2003">
+          <img align="center" src="https://streak-stats.demolab.com?user=KishanSingh2003&theme=tokyonight&background=20,0D1117,1a1a40,0D1117&fire=FFB84C&ring=70A5FD&sideNums=FFFFFF&sideLabels=70A5FD&dates=AAAAAA&currStreakNum=FFFFFF&border_radius=10" alt="Kishan's Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Latest Project</strong></h3>
+      <p align="center">
+        <a href="https://github.com/KishanSingh2003/House-Price-Pediction">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=KishanSingh2003&repo=House-Price-Pediction&theme=tokyonight&show_owner=true&bg_color=20,0D1117,1a1a40,0D1117&title_color=70A5FD&text_color=FFFFFF&border_radius=10" alt="House Price Prediction" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Top Contributions</strong></h3>
+      <p align="center">
+        <a href="https://github.com/KishanSingh2003">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=KishanSingh2003&limit=3&theme=tokyonight&show_owner=true&combine_all_yearly_contributions=false&bg_color=20,0D1117,1a1a40,0D1117&title_color=70A5FD&text_color=FFFFFF&border_radius=10" alt="Top Contributions" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+
+
+
 <!-- Contribution Graph -->
 <h2 align="center">📈 Contribution Graph 📈</h2>
 
