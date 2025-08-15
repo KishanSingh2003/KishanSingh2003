@@ -1,17 +1,16 @@
 <!--Banner-->
 ![Kishan Banner Image](./banner.png)
 
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+I am a Computer Engineering student, Full-Stack Developer, and Machine Learning & IoT Enthusiast with a strong passion for Python, Java, JavaScript, React.js, Node.js, Django, RDBMS, REST APIs, and Data Visualization.
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
-<!--End Intro-->
+✨ Always curious and eager to explore new technologies.  
+🌱 Currently expanding my expertise in advanced Machine Learning, Data Analytics, and Cloud Computing.  
+💡 Skilled in building end-to-end projects, from IoT system simulations to ML pipelines and full-stack web applications.  
+📊 Enthusiastic about turning data into actionable insights through EDA, feature engineering, and visualization.  
+❤ Active in contributing to open-source projects and collaborative development.  
+📚 Achievements include certifications from NPTEL (IIT Kharagpur) and Cisco Networking Academy.  
+💻 Explore my [GitHub](https://github.com/KishanSingh2003) or connect on [LinkedIn](https://www.linkedin.com/in/kishanksingh2003).  
+
 
 
 <!-- Contribution Graph -->
