@@ -11,6 +11,12 @@ I am a Computer Engineering student, Full-Stack Developer, and Machine Learning 
 📚 Achievements include certifications from NPTEL (IIT Kharagpur) and Cisco Networking Academy.  
 💻 Explore my [GitHub](https://github.com/KishanSingh2003) or connect on [LinkedIn](https://www.linkedin.com/in/kishanksingh2003).  
 
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=KishanSingh2003&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 <!-- Tools of Trade -->
 <h2 align="center">💻 Tech Stack & Tools I Use</h2>
 
